@@ -6,7 +6,7 @@ Data Analysis on movie ratings from TheMovieDB.
 
 Used as a project for college on the class of Machine Learning. It was my final project and I thought it would be meaningful to try to predict movie ratings on TheMovieDB based on some statistics about the movie.
 
-**Trabalho de Inferencia.ipynb** is the main file and is written in Portuguese, although this description is in English.
+[**Trabalho de Inferencia.ipynb**](https://github.com/MatheusMAssis/Data-Analysis-Movies/blob/master/Trabalho%20de%20Inferencia.ipynb) is the main file and is written in Portuguese, although this description is in English.
 
 ## Built With
 
