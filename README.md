@@ -1,6 +1,9 @@
 # Data-Analysis-Movies
 
+K-Nearest Neighbors Results
 ![KNN](/ModelsImages/KNN_Result.png)
+
+Multilayer Perceptron Results
 ![MLP](/ModelsImages/MLP_Result.png)
 
 Data Analysis on movie ratings from TheMovieDB.
