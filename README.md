@@ -1,5 +1,8 @@
 # Data-Analysis-Movies
 
+![KNN](/ModelsImages/KNN_Result.png)
+![MLP](/ModelsImages/MLP_Result.png)
+
 Data Analysis on movie ratings from TheMovieDB.
 
 ## About
